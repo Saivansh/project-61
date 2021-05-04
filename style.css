@@ -1,0 +1,26 @@
+img {
+    width: 375px;
+}
+body{
+text-align: center;
+  color: #0000ff;
+  size: 50px;
+  background: #66ffcc;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+color: bisque
+    padding: 50px;
+    text-align: center;
+}
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+#img1:hover{
+    transform: scale(0.9);
+}
